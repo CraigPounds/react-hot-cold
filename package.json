@@ -10,11 +10,11 @@
     "react-test-renderer": "^16.7.0"
   },
   "dependencies": {
-    "react": "^16.1.1",
-    "react-dom": "^16.1.1",
-    "react-redux": "^5.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^5.1.1",
     "redux": "^3.6.0",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
